@@ -14,7 +14,8 @@
 
 ## 📸 Preview
 
-> Coming soon – add a GIF or video demo here!
+![Demo](./assets/gif/demo.gif)
+
 
 ## ⚙️ Tech Stack
 
