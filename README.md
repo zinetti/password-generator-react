@@ -16,6 +16,7 @@
 
 ![Demo](./src/assets/gif/demo.gif)
 
+[![Watch the video](https://img.youtube.com/vi/ID_DO_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=arS2tTEC-W0)
 
 ## ⚙️ Tech Stack
 
