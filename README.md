@@ -37,12 +37,12 @@
 ## ✨ Features
 | Feature                      | Status  |
 | ---------------------------- | ------- |
-| 🔐 Generate secure passwords | 🧑‍💻 Doing |
-| 🎛️ Customizable options     | 🧑‍💻 Doing |
-| 📋 Copy to clipboard         | 🧑‍💻 Doing |
-| 📜 Password history          | 🧑‍💻 Doing |
-| 🌗 Dark/Light mode toggle    | 🧑‍💻 Doing |
-| ♻️ Reusable components/hooks | 🧑‍💻 Doing |
+| 🔐 Generate secure passwords | ✅ Done |
+| 🎛️ Customizable options     | ✅ Done |
+| 📋 Copy to clipboard         | ✅ Done |
+| 📜 Password history          | ✅ Done |
+| 🌗 Dark/Light mode toggle    | ✅ Done |
+| ♻️ Reusable components/hooks | ✅ Done |
 
 ## 🔧 Getting Started
 1. Clone the project
