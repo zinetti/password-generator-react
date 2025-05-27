@@ -14,7 +14,7 @@
 
 ## 📸 Preview
 
-![Demo](./assets/gif/demo.gif)
+![Demo](./src/assets/gif/demo.gif)
 
 
 ## ⚙️ Tech Stack
