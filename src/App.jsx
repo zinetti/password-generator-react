@@ -30,7 +30,7 @@ function App(){
       <h1 className="title">Gerador de Senhas</h1>
       <PasswordOptions onGenerate={generatePassword} />
       <PasswordDisplay password={password} />
-      <CopyButton onClick={copyToClipboard} label={copyText} />
+      <CopyButton onClick={() => copyToClipboard(password)} label={copyText} />
 
     </div>
 
